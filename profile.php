@@ -1,5 +1,4 @@
-<html lang="en">
-
+<html>
 <head>
     <title>Profile</title>
     <link rel="stylesheet" href="indexcss.css">

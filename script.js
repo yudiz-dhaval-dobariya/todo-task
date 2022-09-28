@@ -66,7 +66,7 @@ function register() {
   console.log(oUser);
   console.log(userArray);
 
-  window.location = "index.html";
+  window.location = "index.php";
 }
 
 function login() {
@@ -85,7 +85,7 @@ function login() {
   }
 
   if (isUser) {
-    window.location = "index.html";
+    window.location = "index.php";
   } else {
     alert("Invalid User");
   }

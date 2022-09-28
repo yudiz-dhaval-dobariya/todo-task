@@ -1,6 +1,6 @@
 const sessionEmail = sessionStorage.getItem("email");
 if (sessionEmail === null) {
-	window.location = "index.php";
+	window.location = "login.php";
 }
 const userIndex = sessionStorage.getItem("userIndex");
 

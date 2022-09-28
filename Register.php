@@ -1,5 +1,4 @@
-<html lang="en">
-
+<html>
 <head>
    
     <title>Register</title>
@@ -34,10 +33,10 @@
 
             <input class="button" type="button" onclick="register()" value="Register"></input>
             <div class="rg">
-            <a href="Login.php">Login Here</a>
+            <a href="login.php">Login Here</a>
             </div>
     </form>
     <script type="text/javascript" src="script.js"></script>
 </body>
 
-</php>
+</html>

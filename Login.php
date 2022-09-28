@@ -1,5 +1,4 @@
-<html lang="en">
-
+<html>
 <head>
 
     <title>Login</title>
@@ -28,4 +27,4 @@
     <script type="text/javascript" src="script.js"></script>
 </body>
 
-</php>
+</html>

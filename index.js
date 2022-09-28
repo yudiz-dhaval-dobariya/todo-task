@@ -117,6 +117,6 @@ function getgif() {
 }
 getgif();
 setInterval(getgif, 3000);
-// setInterval(getgif, 12000)
+// setInterval(getgif, 120000)
 
 

@@ -1,4 +1,4 @@
-<html lang="en">
+<html>
 <head>
     <title>Index</title>
     <link rel="stylesheet" href="indexcss.css">

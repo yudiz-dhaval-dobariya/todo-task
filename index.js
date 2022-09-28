@@ -27,7 +27,7 @@ let gender = document.getElementById("gender");
 let users = JSON.parse(localStorage.getItem("users"));
 
 if (sEmail === null) {
-  window.location = "login.html";
+  window.location = "login.php";
 }
 
 function clock() {
@@ -49,8 +49,8 @@ setInterval(clock, 500);
 
 function logout() {
   sessionStorage.clear();
-  window.location.replace("login.html");
-  window.location = "login.html";
+  window.location.replace("login.php");
+  window.location = "login.php";
 }
 
 // weather
